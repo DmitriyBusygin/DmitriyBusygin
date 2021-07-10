@@ -1,5 +1,5 @@
 ### Hello! 👋:wink:
-### Im Eugene, 
+### Im Dima 
 **QA Automation**
 
 - Опыт работы: 5 лет.
