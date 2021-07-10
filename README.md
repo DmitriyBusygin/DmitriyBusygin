@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello! 👋:wink:
+### Im Eugene, 
+**QA Automation**
 
-<!--
-**DmitriyBusygin/DmitriyBusygin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Опыт работы: 5 лет.
+- Инженер-тестировщик с практическим опытом покрытия проектов с нуля WEB UI автотестами и интеграцией с CI.
+- Занимаюсь ручным и автоматизированным тестированием WEB, Desktop, API, Mobile систем.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacts
+- :airplane: Telegram - @dbusygin91
+- :e-mail: e-mail - busdmv@gmail.com
+
+![Eugene GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitriyBusygin&show_icons=true&theme=vue)
